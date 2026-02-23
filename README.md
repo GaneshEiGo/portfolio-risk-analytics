@@ -87,8 +87,6 @@ The Power BI dashboard presents:
 - Risk-adjusted performance metrics
 - Optimal capital allocation breakdown
 
-![Dashboard Overview](images/dashboard_overview.png)
-
 ---
 
 ## Why This Project Matters
